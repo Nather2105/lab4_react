@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../безіменна папка 3"
+		},
+		{
+			"path": "../../../../../lab3_js"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab4_js"
+	}
+}

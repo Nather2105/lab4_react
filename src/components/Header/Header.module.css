@@ -1,0 +1,32 @@
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    width: 100%;
+    padding: 15px 0px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: 3px solid black;    
+
+    
+}
+
+.navContainer *{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.rightMenu *{
+    margin-right: 20px;
+}
+
+.rightMenu{
+    margin-right: 40px;
+}
+
+.logo{
+    margin-left: 40px;
+    font-weight: bold;
+}
